@@ -1,6 +1,6 @@
 class Presets(object):
-    START_TXT = "<b>Hello.. {}</b> 👋\n\n<i>Send me any valid link to convert to Pdf</i>"
-    PROCESS_TXT = "<code>Processing your link..</code>"
+    START_TXT = "<b>Hᴇʟʟᴏ.. {}</b> 👋\n\n<i>I Aᴍ Sɪᴍᴘʟᴇ Lɪɴᴋ Tᴏ PDF Bᴏᴛ I Cᴀɴ Cᴏɴᴠᴇʀᴛ Tʜᴇ Lɪɴᴋ Iɴᴛᴏ PDF Sᴇɴᴅ Mᴇ Aɴʏ Vᴀʟɪᴅ Lɪɴᴋ Tᴏ Cᴏɴᴠᴇʀᴛ Tᴏ Pᴅғ</i>"
+    PROCESS_TXT = "<code>Pʀᴏᴄᴇssɪɴɢ Yᴏᴜʀ ʟɪɴᴋ..</code>"
     INVALID_LINK_TXT = "<b>Invalid link</b>\n\n<i>Please send me a valid link</i>"
     UPLOAD_TXT = "<b>Uploading your file..</b>"
     ERROR_TXT = "<b>URL Error</b>\n\n<i>Unable to create a Pdf with this URL.\nTry again with a valid one..</i>"
