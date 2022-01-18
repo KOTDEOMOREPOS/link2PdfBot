@@ -31,8 +31,8 @@ async def start_bot(self, m: Message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("🛡 Support Chat", url="t.me/rmprojects"),
-                 InlineKeyboardButton("🎯 Source", url="https://github.com/m4mallu")]
+                [InlineKeyboardButton("🛡 BOTS CHANNEL", url="https://t.me/KOT_BOTS"),
+                 InlineKeyboardButton("🎯 SUPPORT GROUP", url="https://t.me/KOT_REPORS")]
             ]
         )
     )
